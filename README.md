@@ -1,16 +1,13 @@
-## Hi there 👋
+<p align="center">pfp art: MULIHAOHAO / readme art: susukinohara320</p>
 
-<!--
-**TheDozingGeneral/TheDozingGeneral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://i.postimg.cc/63fQkSfT/tumblr-bb8e779e51ee1be8c052a4a8a7998b81-b8988ce5-1280-1-1.png" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://i.postimg.cc/6QRq0T7r/New-Project-26-1.png" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://i.postimg.cc/wvpvbHJS/tumblr-bb8e779e51ee1be8c052a4a8a7998b81-b8988ce5-1280-1-2.png" />
+</p>
