@@ -1,7 +1,7 @@
 <p align="center">pfp art: MULIHAOHAO / readme art: susukinohara320</p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/63fQkSfT/tumblr-bb8e779e51ee1be8c052a4a8a7998b81-b8988ce5-1280-1-1.png" />
+  <img src="https://i.postimg.cc/QxW2V7vJ/tumblr-36a6f04cffb746ae32389ec5633a5964-fc371929-1280-3.png" />
 </p>
 
 <p align="center">
@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/wvpvbHJS/tumblr-bb8e779e51ee1be8c052a4a8a7998b81-b8988ce5-1280-1-2.png" />
+  <img src="https://i.postimg.cc/CxTW81gT/tumblr-36a6f04cffb746ae32389ec5633a5964-fc371929-1280-2.png" />
 </p>
